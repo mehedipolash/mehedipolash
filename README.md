@@ -1,7 +1,4 @@
-Here’s your code with the profile image resized to 600 pixels by 600 pixels:
-
-```markdown
-<img src="https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/430096729_3279730598999432_8350119381812744825_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFLxu-IJ4nGr1oWkqGxXFoJ-_71n5Yn-uT7_vWflif65HzBLePH9wlMFB48sms6BjCkYXlZC6PaqVIS4rEsolSg&_nc_ohc=rReNyapf2bAQ7kNvgGbMjIW&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AYDSESjLvDOMCLd3K01KOU4ODlKj8j3Qkb8cHPio5lnsgA&oe=66B8E1CC" alt="Web developer" height="600" width="600">
+<img src="https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/430096729_3279730598999432_8350119381812744825_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFLxu-IJ4nGr1oWkqGxXFoJ-_71n5Yn-uT7_vWflif65HzBLePH9wlMFB48sms6BjCkYXlZC6PaqVIS4rEsolSg&_nc_ohc=rReNyapf2bAQ7kNvgGbMjIW&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AYDSESjLvDOMCLd3K01KOU4ODlKj8j3Qkb8cHPio5lnsgA&oe=66B8E1CC" alt="Web developer" height="400" width="400">
 
 ### Hi there 👋, I am Mehedi Hasan Polash
 #### Web developer
@@ -31,6 +28,3 @@ Skills: C++/ JAVA/ JS / HTML / CSS/JAVASCRIPT
 ![GitHub metrics](https://metrics.lecoq.io/mehedipolash)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedipolash)  
-```
-
-Now, the profile image will be displayed at 600x600 pixels. Let me know if you need any more changes!
