@@ -1,8 +1,7 @@
-![Web developer](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/430096729_3279730598999432_8350119381812744825_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFLxu-IJ4nGr1oWkqGxXFoJ-_71n5Yn-uT7_vWflif65HzBLePH9wlMFB48sms6BjCkYXlZC6PaqVIS4rEsolSg&_nc_ohc=rReNyapf2bAQ7kNvgGbMjIW&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AYDSESjLvDOMCLd3K01KOU4ODlKj8j3Qkb8cHPio5lnsgA&oe=66B8E1CC)
+![Web developer](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/430096729_3279730598999432_8350119381812744825_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFLxu-IJ4nGr1oWkqGxXFoJ-_71n5Yn-uT7_vWflif65HzBLePH9wlMFB48sms6BjCkYXlZC6PaqVIS4rEsolSg&_nc_ohc=rReNyapf2bAQ7kNvgGbMjIW&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AYDSESjLvDOMCLd3K01KOU4ODlKj8j3Qkb8cHPio5lnsgA&oe=66B8E1CC){:height="200px" width="200px"}
 
-### Hi there 👋, I am Mehedi hasan Polash
+### Hi there 👋, I am Mehedi Hasan Polash
 #### Web developer
-
 
 I am a computer science student at American International university-Bangladesh 
 
@@ -13,7 +12,6 @@ Skills: C++/ JAVA/ JS / HTML / CSS/JAVASCRIPT
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web development 
 - ⚡ Fun fact:  I love cricket & football 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedipolash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/M Mehedi Hasan Polash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/M Mehedi Hasan Polash)  
 
@@ -30,9 +28,3 @@ Skills: C++/ JAVA/ JS / HTML / CSS/JAVASCRIPT
 ![GitHub metrics](https://metrics.lecoq.io/mehedipolash)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedipolash)  
-
-
-
-
-
-
