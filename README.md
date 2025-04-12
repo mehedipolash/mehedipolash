@@ -3,7 +3,7 @@
 
 I am a computer science student at American International University-Bangladesh 
 
-Skills: C++/ JAVA/ C SHARP/ HTML / CSS/JAVASCRIPT/PHP/PYTHON/PHP
+Skills: C++/ JAVA/ C SHARP/ HTML / CSS/Tailwind-css/JAVASCRIPT/PHP/PYTHON/PHP/React
 
 - 🔭 I’m currently working on Studies at AIUB 
 - 🌱 I’m currently learning javascript 
