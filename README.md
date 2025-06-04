@@ -6,7 +6,7 @@ I am a computer science student at American International University-Bangladesh
 Skills: C++ / JAVA/ C SHARP/ HTML / CSS / TAILWIND-CSS / JAVASCRIPT / PYTHON / REACT
 
 - 🔭 I’m currently working on Studies at AIUB 
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web development 
 - ⚡ Fun fact: I love cricket & football 
