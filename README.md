@@ -1,4 +1,4 @@
-### I am Mehedi Hasan Polash  
+### I am Md Mehedi Hasan Polash  
 #### CSE student at AIUB  
 
 I am a computer science student at American International University-Bangladesh  
