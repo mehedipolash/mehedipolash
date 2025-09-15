@@ -4,7 +4,9 @@
 I am a computer science student at American International University-Bangladesh  
 
 **Skills:**  
-C++ / JAVA / C SHARP / HTML / CSS / TAILWIND-CSS / JAVASCRIPT / TYPESCRIPT / PYTHON / REACT (Still learning) / NEXT JS (learning) / NEST JS (learning)  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,tailwind,js,ts,py,react,nextjs,nestjs" height="24" />
+</p>
 
 - 🔭 I’m currently working on Studies at AIUB  
 - 🌱 I’m currently learning React  
