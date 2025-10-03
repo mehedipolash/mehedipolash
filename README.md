@@ -8,11 +8,7 @@ I am a computer science student at American International University-Bangladesh
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Md%20Mehedi%20Hasan%20Polash&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 
-**Skills:**  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,tailwind,js,ts,py,react,nextjs,nestjs" />
-</p>
+**Skills:**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,tailwind,js,ts,py,react,nextjs,nestjs" height="24" />
@@ -37,3 +33,6 @@ I am a computer science student at American International University-Bangladesh
 ![GitHub metrics](https://metrics.lecoq.io/mehedipolash)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedipolash)  
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
+
