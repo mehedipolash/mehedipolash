@@ -2,6 +2,8 @@
 #### CSE student at AIUB  
 
 I am a computer science student at American International University-Bangladesh  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Md%20Mehedi%20Hasan%20Polash&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
+
 
 **Skills:**  
 <p align="left">
