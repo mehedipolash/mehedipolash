@@ -1,79 +1,38 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Md+Mehedi+Hasan+Polash;CSE+Student+at+AIUB" alt="Typing SVG" />
-</h1>
+### I am Md Mehedi Hasan Polash  
+#### CSE student at AIUB  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-C%2B%2B%2C%20Java%2C%20Python-blue?style=flat-square&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Web-HTML%2C%20CSS%2C%20JS-orange?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Frameworks-React%2C%20Next.js%2C%20Nest.js-green?style=flat-square&logo=react" />
+I am a computer science student at American International University-Bangladesh  
+
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Md%20Mehedi%20Hasan%20Polash&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
+
+
+**Skills:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,tailwind,js,ts,py,react,nextjs,nestjs" height="24" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-🎓 I'm a Computer Science student at **American International University-Bangladesh (AIUB)**  
-🌱 Currently learning **React** and building cool web projects  
-👯 Looking to collaborate on **GitHub**  
-💬 Ask me anything about **Web Development**  
-⚽ Fun fact: I love **Cricket & Football**
+- 🔭 I’m currently working on Studies at AIUB  
+- 🌱 I’m currently learning React  
+- 👯 I’m looking to collaborate on GitHub  
+- 💬 Ask me about Web development  
+- ⚡ Fun fact: I love cricket & football  
 
 ---
 
-### 🚀 Skills
+[![trophy](https://github-profile-trophy.vercel.app/?username=mehedipolash)](https://github.com/ryo-ma/github-profile-trophy)  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,tailwind,js,ts,py,react,nextjs,nestjs" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedipolash)](https://github.com/anuraghazra/github-readme-stats)  
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedipolash&show_icons=true&count_private=true)  
 
-### 🏆 GitHub Achievements
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mehedipolash/contributions?format=svg&private=true)  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehedipolash&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+![GitHub metrics](https://metrics.lecoq.io/mehedipolash)  
 
----
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedipolash)  
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedipolash&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedipolash&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mehedipolash&theme=dark" />
-</p>
-
----
-
-### 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/mehedipolash?template=classic" />
-</p>
-
----
-
-### 🎯 Vaunt Badge
-
-<p align="center">
-  <img src="https://api.vaunt.dev/v1/github/entities/mehedipolash/contributions?format=svg&private=true" />
-</p>
-
----
-
-### ✨ Extras
-
-- Add a cool background using [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- Use [Lottie animations](https://lottiefiles.com/) for even more dynamic visuals
-
----
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
 
