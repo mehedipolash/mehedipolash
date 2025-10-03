@@ -3,13 +3,17 @@
 
 I am a computer science student at American International University-Bangladesh  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&width=600&lines=Hi+👋,+I'm+Md+Mehedi+Hasan+Polash;CSE+Student+at+AIUB;Full+Stack+Web+Developer;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Md%20Mehedi%20Hasan%20Polash&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 
 **Skills:**  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,tailwind,js,ts,py,react,nextjs,nestjs" />
+</p>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,tailwind,js,ts,py,react,nextjs,nestjs" height="24" />
 </p>
