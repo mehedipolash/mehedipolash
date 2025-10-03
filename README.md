@@ -22,9 +22,6 @@ I am a computer science student at American International University-Bangladesh
 
 ---
 
-![Snake animation](https://github.com/mehedipolash/mehedipolash/blob/output/github-contribution-grid-snake.svg)
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=mehedipolash)](https://github.com/ryo-ma/github-profile-trophy)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedipolash)](https://github.com/anuraghazra/github-readme-stats)  
