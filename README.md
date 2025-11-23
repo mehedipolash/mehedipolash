@@ -11,7 +11,7 @@ I am a computer science student at American International University-Bangladesh
 **Skills:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,tailwind,js,ts,py,react,nextjs,nestjs" height="24" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,tailwind,js,ts,py,react,nextjs,nestjs,firebase" height="24" />
 </p>
 
 - 🔭 I’m currently working on Studies at AIUB  
