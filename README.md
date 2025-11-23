@@ -15,7 +15,7 @@ I am a computer science student at American International University-Bangladesh
 </p>
 
 - 🔭 I’m currently working on Studies at AIUB  
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning Backend with Database  
 - 👯 I’m looking to collaborate on GitHub  
 - 💬 Ask me about Web development  
 - ⚡ Fun fact: I love cricket & football  
