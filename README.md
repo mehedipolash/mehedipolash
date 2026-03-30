@@ -19,17 +19,20 @@ I am a Computer Science student at American International University-Bangladesh 
 
 ---
 
+### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=mehedipolash&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedipolash&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedipolash&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</div>
+### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mehedipolash&theme=radical" alt="GitHub Streak Stats" />
-</div>
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedipolash&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedipolash&show_icons=true&count_private=true&theme=radical) |
+|:---:|:---:|
 
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mehedipolash&theme=radical)](https://git.io/streak-stats)
+
+### 📈 Contribution Graph
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mehedipolash/contributions?format=svg&private=true&theme=radical)
+
+---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
