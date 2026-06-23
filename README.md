@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Md%20Mehedi%20Hasan%20Polash&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Cisco%20CCNA%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Md%20Mehedi%20Hasan%20Polash&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" alt="banner" />
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=0072FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Cisco+CCNA+Networking+Enthusiast;Always+learning%2C+always+building." alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://mehedipolash.vercel.app" target="_blank">
@@ -10,8 +16,8 @@
   <a href="mailto:polashmehedi33@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mehedipolash&style=for-the-badge&color=0072ff&label=Profile+Views" alt="profile views" />
 </p>
+
 
 ---
 
