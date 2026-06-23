@@ -18,7 +18,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 👋 About Me
@@ -67,7 +66,7 @@ I'm a **Computer Science graduate** from **American International University–B
 | **[CareerCode](https://career-code-7eae1.web.app/)** | Full-stack job portal with JWT + Firebase auth, role-based access & application tracking | React · Node · Express · MongoDB |
 | **[PassionLoop](https://passionloop-b71a5.web.app/)** | Hobby-group community platform with full CRUD, live search & filtering | React · Firebase · Express · MongoDB |
 | **[CareerFusion](https://careerfusion-44fab.web.app/)** | Job portal with animated UI, protected routes & profile management | React · Firebase · Framer Motion |
-| **EventHub** | Event management platform with RBAC | Next.js · TypeScript · Nest.js · PostgreSQL |
+| **EventHub** | Event management platform with role-based access control | Next.js · TypeScript · Nest.js · PostgreSQL |
 
 > 📂 More projects & detailed case studies on my **[portfolio →](https://mehedipolash.vercel.app/projects)**
 
@@ -85,9 +84,10 @@ I'm a **Computer Science graduate** from **American International University–B
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehedipolash&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mehedipolash&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%" alt="footer" />
+
