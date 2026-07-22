@@ -7,212 +7,188 @@
 
 <p align="center">
   <a href="https://mehedipolash.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/m-mehedi-hasan-polash">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:polashmehedi33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://mehedipolash.vercel.app/mehedi_cv.pdf">
-    <img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehedipolash&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mehedipolash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-I'm a **Full Stack MERN Developer** currently working at **Nexogs Systems Ltd.** where I build production-ready web applications from database design to deployment.
+I'm a **Full Stack MERN Developer** at **Nexogs Systems Ltd.**, where I build production
+web applications from database design through to deployment.
 
-I enjoy developing complete systems including:
+The work I enjoy most is building complete systems — REST APIs, authentication and
+authorization, schema design, role-based access control, admin dashboards, and the
+responsive UI on top of all of it.
 
-- REST APIs
-- Authentication & Authorization
-- Database Design
-- Admin Dashboards
-- Role-Based Applications
-- Responsive UI/UX
+Currently expanding into **TypeScript, Next.js, NestJS and PostgreSQL**, with a focus on
+system design and software architecture. Alongside that I'm preparing for the
+**Cisco CCNA** — routing, switching, subnetting and infrastructure — which has sharpened
+how I reason about deployment and debugging below the application layer.
 
-Currently expanding my expertise in:
-
-- TypeScript
-- Next.js
-- NestJS
-- PostgreSQL
-- System Design
-- Software Architecture
-
-Alongside software development, I'm also preparing for the **Cisco CCNA**, strengthening my understanding of networking, routing, switching, subnetting, deployment and infrastructure.
-
-🎓 **B.Sc. in Computer Science & Engineering**  
-American International University-Bangladesh (AIUB)  
-CGPA **3.73 / 4.00** (2025)
+🎓 **B.Sc. in Computer Science & Engineering** — American International University-Bangladesh (AIUB)
+CGPA **3.73 / 4.00** · 2025
+🔗 [Certifications & verified Cisco badges](https://mehedipolash.vercel.app/credentials)
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-### Languages
+**Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,cs,php" alt="languages"/>
 </p>
 
-### Frontend
+**Frontend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" alt="frontend"/>
 </p>
 
-### Backend
+**Backend & Databases**
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,firebase" alt="backend"/>
 </p>
 
-### Tools
+**Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode" alt="tools"/>
 </p>
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🏨 Stayora
+### 🏨 [Stayora](https://stayora-93393.web.app/) — Hotel Booking Platform
 
-Modern hotel booking platform with secure authentication, room reservations, interactive maps and verified reviews.
+Travelers discover curated rooms, book with date ranges, and leave reviews. Server-side
+price filtering, an interactive Leaflet map, and a review system gated to confirmed
+bookings so ratings can't be gamed.
 
-**Tech**
+`React` `Firebase` `JWT` `Node.js` `Express` `MongoDB`
 
-`React` `Firebase` `Node.js` `Express` `MongoDB` `JWT`
-
-🔗 Live: https://stayora-93393.web.app/
-
-💻 Client: https://github.com/mehedipolash/Stayora-client
-
-📖 Case Study: https://mehedipolash.vercel.app/projects/stayora
+🔗 [Live Demo](https://stayora-93393.web.app/) · 💻 [Client](https://github.com/mehedipolash/Stayora-client) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/stayora)
 
 ---
 
-## 💼 CareerCode
+### 💼 [CareerCode](https://career-code-7eae1.web.app/) — Job Portal with Role-Based Access
 
-A role-based recruitment platform where recruiters manage jobs and applicants while candidates apply using resumes, LinkedIn and GitHub profiles.
+Seekers apply with résumé, LinkedIn and GitHub, then track status through
+Pending → Interview → Hired; recruiters post listings and review applicants. Firebase +
+JWT auth with protected routes and a real-time stats dashboard.
 
-**Tech**
+`React 19` `Vite` `Express` `MongoDB` `JWT` `Firebase Auth`
 
-`React 19` `Express` `MongoDB` `JWT`
-
-🔗 Live: https://career-code-7eae1.web.app/
-
-💻 Backend: https://github.com/mehedipolash/career-code-server
-
-📖 Case Study: https://mehedipolash.vercel.app/projects/careercode
+🔗 [Live Demo](https://career-code-7eae1.web.app/) · 💻 [Server](https://github.com/mehedipolash/career-code-server) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/careercode)
 
 ---
 
-## 🎯 PassionLoop
+### 🎯 [PassionLoop](https://passionloop-b71a5.web.app/) — Hobby Group Community Platform
 
-Community platform for discovering and managing local hobby groups with search, pagination and full CRUD functionality.
+Discover, create, join and manage local groups around shared interests. Full CRUD with
+live search, category filtering, animated cards and show-more pagination, on a
+Node/Express + MongoDB Atlas API.
 
-**Tech**
+`React` `Firebase` `Node.js` `Express` `MongoDB`
 
-`React` `Firebase` `Node.js` `Express`
-
-🔗 Live: https://passionloop-b71a5.web.app/
-
-💻 Client: https://github.com/mehedipolash/PASSIONLOOP-CLIENT
-
-💻 Server: https://github.com/mehedipolash/PASSIONLOOP-SERVER
+🔗 [Live Demo](https://passionloop-b71a5.web.app/) · 💻 [Client](https://github.com/mehedipolash/PASSIONLOOP-CLIENT) · 💻 [Server](https://github.com/mehedipolash/PASSIONLOOP-SERVER) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/passionloop)
 
 ---
 
-## 🎉 EventHub
+### 🎉 EventHub — Event Management Platform
 
-Event management platform built using Next.js App Router with a NestJS backend, PostgreSQL database and role-based authentication.
+Next.js 14 App Router frontend typed end to end with an SEO and accessibility focus,
+backed by a NestJS + PostgreSQL API using session-cookie authentication and role-based
+access control for admin and user roles.
 
-**Tech**
+`Next.js 14` `TypeScript` `NestJS` `PostgreSQL` `REST API`
 
-`Next.js` `TypeScript` `NestJS` `PostgreSQL`
-
-Frontend:
-https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Frontend
-
-Backend:
-https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Backend
+💻 [Frontend](https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Frontend) · 💻 [Backend](https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Backend) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/eventhub)
 
 ---
 
-## 💼 CareerFusion
+### 💼 [CareerFusion](https://careerfusion-44fab.web.app/) — Job Portal Web App
 
-Job portal with Google Authentication, protected routes, profile management and animated UI using Framer Motion.
+Explore companies, browse listings and manage a profile. Firebase Auth with Google OAuth
+and password reset, protected routes, and animated listings with detail modals built on
+Framer Motion.
 
-**Tech**
+`React 19` `Firebase` `React Router` `Framer Motion` `Tailwind`
 
-`React` `Firebase` `Framer Motion`
-
-🔗 Live:
-https://careerfusion-44fab.web.app/
-
-💻 Source:
-https://github.com/mehedipolash/CAREERFUSION
+🔗 [Live Demo](https://careerfusion-44fab.web.app/) · 💻 [Source](https://github.com/mehedipolash/CAREERFUSION) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/careerfusion)
 
 ---
 
-## Other Projects
+## 📂 Other Projects
 
-- Coffee Management System
-- Banking Transaction API (C#)
-- Medical Appointment System
+**☕ Coffee Management System** — full-stack CRUD app with Firebase auth and user management
+`React 18` `Vite` `Express` `MongoDB`
+🔗 [Live Demo](https://coffee-store-app-77cb4.web.app/) · 💻 [Client](https://github.com/mehedipolash/coffee-management-client) · 💻 [Server](https://github.com/mehedipolash/coffee-management-server) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/coffee-management)
 
-🌐 Portfolio:
-https://mehedipolash.vercel.app
+**🏦 Banking Transaction API** — transactional banking API built in C#
+`C#` `.NET`
+💻 [Source](https://github.com/mehedipolash/Banking-Transaction-Api)
+
+**🩺 Medical Appointment System** — appointment scheduling with routing, localStorage persistence and chart-based booking analytics
+`React` `React Router` `Charts`
+🔗 [Live Demo](https://medical-appointment-system-using-reac.netlify.app/) · 💻 [Source](https://github.com/mehedipolash/Medical-Appointment-System) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/medical-appointment)
+
+**📬 Mailbox App** — TypeScript mail client interface
+`TypeScript`
+💻 [Source](https://github.com/mehedipolash/mailbox-app)
+
+🌐 **All projects & case studies → [mehedipolash.vercel.app/projects](https://mehedipolash.vercel.app/projects)**
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehedipolash&show_icons=true&theme=tokyonight&hide_border=true&hide=issues"/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedipolash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehedipolash&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" alt="GitHub stats"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedipolash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
 <p align="center">
-
-<img width="95%" src="https://streak-stats.demolab.com?user=mehedipolash&theme=tokyonight&hide_border=true"/>
-
+  <img width="95%" src="https://streak-stats.demolab.com?user=mehedipolash&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedipolash&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedipolash&theme=tokyonight" alt="Profile summary"/>
 </p>
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
-📧 **Email:** polashmehedi33@gmail.com
+| | |
+|:--|:--|
+| 📧 **Email** | [polashmehedi33@gmail.com](mailto:polashmehedi33@gmail.com) |
+| 🌐 **Portfolio** | [mehedipolash.vercel.app](https://mehedipolash.vercel.app) |
+| 💼 **LinkedIn** | [in/m-mehedi-hasan-polash](https://www.linkedin.com/in/m-mehedi-hasan-polash) |
+| 📄 **Resume** | [mehedi_cv.pdf](https://mehedipolash.vercel.app/mehedi_cv.pdf) |
+| 💬 **Contact Form** | [mehedipolash.vercel.app/contact](https://mehedipolash.vercel.app/contact) |
 
-🌐 **Portfolio:** https://mehedipolash.vercel.app
-
-💼 **LinkedIn:** https://www.linkedin.com/in/m-mehedi-hasan-polash
-
-📄 **Resume:** https://mehedipolash.vercel.app/mehedi_cv.pdf
+**More:** [About](https://mehedipolash.vercel.app/about) · [Experience](https://mehedipolash.vercel.app/experience) · [Skills](https://mehedipolash.vercel.app/skills) · [Credentials](https://mehedipolash.vercel.app/credentials) · [Blog](https://mehedipolash.vercel.app/blog)
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories.
+⭐ If you find my work useful, a star on any repository is always appreciated.
 </p>
