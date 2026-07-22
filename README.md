@@ -1,93 +1,96 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Md%20Mehedi%20Hasan%20Polash&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" alt="banner" />
+<h1 align="center">Md Mehedi Hasan Polash</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=0072FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Cisco+CCNA+Networking+Enthusiast;Always+learning%2C+always+building." alt="Typing SVG" />
-  </a>
+  Full-stack developer building production web apps with <b>React, Node.js & TypeScript</b>.<br/>
+  CS graduate, AIUB · Dhaka, Bangladesh
 </p>
 
 <p align="center">
-  <a href="https://mehedipolash.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0072ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://mehedipolash.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/m-mehedi-hasan-polash" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/m-mehedi-hasan-polash">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:polashmehedi33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="ADD_YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Résumé-4A4A4A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" />
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+### About
 
-I'm a **Computer Science graduate** from **American International University–Bangladesh (AIUB)**, working as a **MERN Stack Developer**. I build efficient, scalable, full-stack web applications end to end — with a strong, growing interest in **computer networking (Cisco CCNA)**.
+I build full-stack web applications end to end — from schema design and API architecture
+through to the interface. Most of my work is in the React/Node ecosystem, and I'm currently
+going deeper on **backend architecture, database design, and system design**.
 
-- 💼 Working as a **MERN Stack Developer** — React, Node.js, Express & MongoDB
-- 🌱 Currently sharpening: **backend architecture, databases & system design**
-- 🔌 Networking: **Routing & Switching, VLSM subnetting, OSI / TCP-IP (Cisco CCNA)**
-- 🤝 Open to **full-stack & networking roles** and **open-source collaboration**
-- 💬 Ask me about **web development — frontend to backend**
-- ⚡ Fun fact: I love cricket & football 🏏⚽
+I also hold a working knowledge of **networking fundamentals** (Cisco CCNA — routing &
+switching, VLSM subnetting, OSI/TCP-IP), which has been unexpectedly useful for reasoning
+about deployment, latency, and debugging things that aren't the application layer.
 
-📍 Dhaka, Bangladesh • 🌐 **[mehedipolash.vercel.app](https://mehedipolash.vercel.app)**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,cs,php" height="38" alt="languages" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="38" alt="frontend" />
-</p>
-
-**Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,mysql,firebase" height="38" alt="backend" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma" height="38" alt="tools" />
-</p>
+**Currently:** ADD_ROLE at ADD_COMPANY · open to full-stack roles and open-source collaboration.
 
 ---
 
-## 🚀 Featured Projects
+### Tech
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[CareerCode](https://career-code-7eae1.web.app/)** | Full-stack job portal with JWT + Firebase auth, role-based access & application tracking | React · Node · Express · MongoDB |
-| **[PassionLoop](https://passionloop-b71a5.web.app/)** | Hobby-group community platform with full CRUD, live search & filtering | React · Firebase · Express · MongoDB |
-| **[CareerFusion](https://careerfusion-44fab.web.app/)** | Job portal with animated UI, protected routes & profile management | React · Firebase · Framer Motion |
-| **EventHub** | Event management platform with role-based access control | Next.js · TypeScript · Nest.js · PostgreSQL |
+**Work in daily**
 
-> 📂 More projects & detailed case studies on my **[portfolio →](https://mehedipolash.vercel.app/projects)**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,tailwind" height="36" alt="core stack" />
+</p>
+
+**Comfortable with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,postgres,mysql,firebase,git,postman,vercel,figma" height="36" alt="secondary stack" />
+</p>
+
+**Also written:** Python · Java · C++ · C# · PHP
 
 ---
 
-## 📊 GitHub Stats
+### Selected Work
+
+**[CareerCode](https://career-code-7eae1.web.app/)** — job portal with role-based access control
+Recruiters post and manage listings, candidates track applications through their lifecycle.
+JWT sessions layered over Firebase auth, with route-level authorization on the Express API.
+`React` `Node` `Express` `MongoDB`
+[Live](https://career-code-7eae1.web.app/) · [Code](ADD_REPO_LINK)
+
+**[PassionLoop](https://passionloop-b71a5.web.app/)** — hobby-group community platform
+Users create and join interest groups; full CRUD with server-side search and multi-field filtering.
+`React` `Firebase` `Express` `MongoDB`
+[Live](https://passionloop-b71a5.web.app/) · [Code](ADD_REPO_LINK)
+
+**EventHub** — event management platform
+Typed end to end, with a Nest.js service layer over PostgreSQL and role-scoped permissions.
+The project where I stopped treating types as decoration.
+`Next.js` `TypeScript` `Nest.js` `PostgreSQL`
+[Code](ADD_REPO_LINK)
+
+**[CareerFusion](https://careerfusion-44fab.web.app/)** — job board with animated UI
+Protected routes, profile management, motion-driven transitions.
+`React` `Firebase` `Framer Motion`
+[Live](https://careerfusion-44fab.web.app/) · [Code](ADD_REPO_LINK)
+
+More detail and case studies → **[mehedipolash.vercel.app/projects](https://mehedipolash.vercel.app/projects)**
+
+---
+
+### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedipolash&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedipolash&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mehedipolash&theme=tokyonight&hide_border=true" width="60%" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehedipolash&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedipolash&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" width="49%" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedipolash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="top languages" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%" alt="footer" />
-
+<p align="center">
+  <sub>Open to opportunities — reach me at <a href="mailto:polashmehedi33@gmail.com">polashmehedi33@gmail.com</a></sub>
+</p>
