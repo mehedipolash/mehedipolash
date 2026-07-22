@@ -1,194 +1,134 @@
-<h1 align="center">Hi 👋, I'm Md. Mehedi Hasan Polash</h1>
+# Md. Mehedi Hasan Polash
 
-<p align="center">
-  <strong>Full Stack (MERN) Developer</strong> at <strong>Nexogs Systems Ltd.</strong><br/>
-  Building scalable web applications with React, Node.js, Express, MongoDB & TypeScript.
-</p>
+**Full-Stack Developer** · Dhaka, Bangladesh
 
-<p align="center">
-  <a href="https://mehedipolash.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/m-mehedi-hasan-polash">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:polashmehedi33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://mehedipolash.vercel.app/mehedi_cv.pdf">
-    <img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://mehedipolash.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-mehedi-hasan-polash)
+[![Email](https://img.shields.io/badge/Email-2F2F2F?style=flat-square&logo=gmail&logoColor=white)](mailto:polashmehedi33@gmail.com)
+[![Résumé](https://img.shields.io/badge/Résumé-2F2F2F?style=flat-square&logo=readdotcv&logoColor=white)](https://mehedipolash.vercel.app/mehedi_cv.pdf)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehedipolash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+I build and ship full-stack web applications — schema design, REST APIs, authentication
+and authorization, then the interface on top. Most of my production work is React with
+Node/Express and MongoDB; I'm currently moving deeper into TypeScript, Next.js and NestJS,
+and studying for the Cisco CCNA on the infrastructure side.
 
 ---
 
-## 💫 About Me
+## Experience
 
-I'm a **Full Stack MERN Developer** at **Nexogs Systems Ltd.**, where I build production
-web applications from database design through to deployment.
+**Full-Stack Developer (MERN)** — Nexogs Systems Ltd., Dhaka · *Present*
 
-The work I enjoy most is building complete systems — REST APIs, authentication and
-authorization, schema design, role-based access control, admin dashboards, and the
-responsive UI on top of all of it.
+Building production web applications end to end: database modelling, REST API design,
+role-based access control, admin tooling, and responsive client interfaces.
 
-Currently expanding into **TypeScript, Next.js, NestJS and PostgreSQL**, with a focus on
-system design and software architecture. Alongside that I'm preparing for the
-**Cisco CCNA** — routing, switching, subnetting and infrastructure — which has sharpened
-how I reason about deployment and debugging below the application layer.
-
-🎓 **B.Sc. in Computer Science & Engineering** — American International University-Bangladesh (AIUB)
-CGPA **3.73 / 4.00** · 2025
-🔗 [Certifications & verified Cisco badges](https://mehedipolash.vercel.app/credentials)
+Full history → [mehedipolash.vercel.app/experience](https://mehedipolash.vercel.app/experience)
 
 ---
 
-## 🚀 Tech Stack
+## Selected Projects
 
-**Languages**
+### Stayora — Hotel Booking Platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,cs,php" alt="languages"/>
-</p>
+Room discovery, date-range booking, and a review system deliberately gated to confirmed
+stays so ratings can't be gamed. Server-side price filtering keeps the payload small on
+large result sets; bookings and reviews are linked at the data layer rather than the UI.
 
-**Frontend**
+**React · Firebase Auth · JWT · Node.js · Express · MongoDB**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" alt="frontend"/>
-</p>
+[Live](https://stayora-93393.web.app/) · [Client](https://github.com/mehedipolash/Stayora-client) · [Case study](https://mehedipolash.vercel.app/projects/stayora)
 
-**Backend & Databases**
+### CareerCode — Job Portal with Role-Based Access
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,firebase" alt="backend"/>
-</p>
+Two distinct user roles over one API surface. Candidates apply with résumé, LinkedIn and
+GitHub and track applications through a Pending → Interview → Hired state machine;
+recruiters manage listings and review applicants. Firebase identity with JWT-secured
+routes and authorization enforced server-side, not just hidden in the client.
 
-**Tools**
+**React 19 · Vite · Express · MongoDB · JWT · Firebase Auth**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode" alt="tools"/>
-</p>
+[Live](https://career-code-7eae1.web.app/) · [Server](https://github.com/mehedipolash/career-code-server) · [Case study](https://mehedipolash.vercel.app/projects/careercode)
 
----
+### EventHub — Event Management Platform
 
-## 🌟 Featured Projects
+Typed end to end. Next.js 14 App Router frontend built with SEO and accessibility as
+constraints rather than afterthoughts, over a NestJS + PostgreSQL API using
+session-cookie authentication and RBAC across admin and user roles. The project where I
+moved from JavaScript-with-types to actually designing around the type system.
 
-### 🏨 [Stayora](https://stayora-93393.web.app/) — Hotel Booking Platform
+**Next.js 14 · TypeScript · NestJS · PostgreSQL · REST**
 
-Travelers discover curated rooms, book with date ranges, and leave reviews. Server-side
-price filtering, an interactive Leaflet map, and a review system gated to confirmed
-bookings so ratings can't be gamed.
+[Frontend](https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Frontend) · [Backend](https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Backend) · [Case study](https://mehedipolash.vercel.app/projects/eventhub)
 
-`React` `Firebase` `JWT` `Node.js` `Express` `MongoDB`
+### PassionLoop — Hobby Group Community Platform
 
-🔗 [Live Demo](https://stayora-93393.web.app/) · 💻 [Client](https://github.com/mehedipolash/Stayora-client) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/stayora)
+Discover, create, join and manage local interest groups. Full CRUD with server-side
+search and category filtering, cursor-style pagination, and a Node/Express API against
+MongoDB Atlas.
 
----
+**React · Firebase Auth · Node.js · Express · MongoDB**
 
-### 💼 [CareerCode](https://career-code-7eae1.web.app/) — Job Portal with Role-Based Access
+[Live](https://passionloop-b71a5.web.app/) · [Client](https://github.com/mehedipolash/PASSIONLOOP-CLIENT) · [Server](https://github.com/mehedipolash/PASSIONLOOP-SERVER) · [Case study](https://mehedipolash.vercel.app/projects/passionloop)
 
-Seekers apply with résumé, LinkedIn and GitHub, then track status through
-Pending → Interview → Hired; recruiters post listings and review applicants. Firebase +
-JWT auth with protected routes and a real-time stats dashboard.
+### CareerFusion — Job Portal Web App
 
-`React 19` `Vite` `Express` `MongoDB` `JWT` `Firebase Auth`
+Company and job browsing with profile management. Firebase Auth including Google OAuth
+and password reset, route guards, and motion-driven listing transitions.
 
-🔗 [Live Demo](https://career-code-7eae1.web.app/) · 💻 [Server](https://github.com/mehedipolash/career-code-server) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/careercode)
+**React 19 · Firebase · React Router · Framer Motion · Tailwind**
 
----
-
-### 🎯 [PassionLoop](https://passionloop-b71a5.web.app/) — Hobby Group Community Platform
-
-Discover, create, join and manage local groups around shared interests. Full CRUD with
-live search, category filtering, animated cards and show-more pagination, on a
-Node/Express + MongoDB Atlas API.
-
-`React` `Firebase` `Node.js` `Express` `MongoDB`
-
-🔗 [Live Demo](https://passionloop-b71a5.web.app/) · 💻 [Client](https://github.com/mehedipolash/PASSIONLOOP-CLIENT) · 💻 [Server](https://github.com/mehedipolash/PASSIONLOOP-SERVER) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/passionloop)
+[Live](https://careerfusion-44fab.web.app/) · [Source](https://github.com/mehedipolash/CAREERFUSION) · [Case study](https://mehedipolash.vercel.app/projects/careerfusion)
 
 ---
 
-### 🎉 EventHub — Event Management Platform
+## Also
 
-Next.js 14 App Router frontend typed end to end with an SEO and accessibility focus,
-backed by a NestJS + PostgreSQL API using session-cookie authentication and role-based
-access control for admin and user roles.
+| Project | Stack | Links |
+|:--|:--|:--|
+| **Coffee Management System** — full-stack CRUD with Firebase auth and user management | React 18, Vite, Express, MongoDB | [Live](https://coffee-store-app-77cb4.web.app/) · [Client](https://github.com/mehedipolash/coffee-management-client) · [Server](https://github.com/mehedipolash/coffee-management-server) · [Case study](https://mehedipolash.vercel.app/projects/coffee-management) |
+| **Banking Transaction API** — transactional banking service | C#, .NET | [Source](https://github.com/mehedipolash/Banking-Transaction-Api) |
+| **Medical Appointment System** — scheduling with persistence and booking analytics | React, React Router, Charts | [Live](https://medical-appointment-system-using-reac.netlify.app/) · [Source](https://github.com/mehedipolash/Medical-Appointment-System) · [Case study](https://mehedipolash.vercel.app/projects/medical-appointment) |
+| **Mailbox App** — mail client interface | TypeScript | [Source](https://github.com/mehedipolash/mailbox-app) |
 
-`Next.js 14` `TypeScript` `NestJS` `PostgreSQL` `REST API`
-
-💻 [Frontend](https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Frontend) · 💻 [Backend](https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Backend) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/eventhub)
-
----
-
-### 💼 [CareerFusion](https://careerfusion-44fab.web.app/) — Job Portal Web App
-
-Explore companies, browse listings and manage a profile. Firebase Auth with Google OAuth
-and password reset, protected routes, and animated listings with detail modals built on
-Framer Motion.
-
-`React 19` `Firebase` `React Router` `Framer Motion` `Tailwind`
-
-🔗 [Live Demo](https://careerfusion-44fab.web.app/) · 💻 [Source](https://github.com/mehedipolash/CAREERFUSION) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/careerfusion)
+Everything else → [mehedipolash.vercel.app/projects](https://mehedipolash.vercel.app/projects)
 
 ---
 
-## 📂 Other Projects
+## Technical
 
-**☕ Coffee Management System** — full-stack CRUD app with Firebase auth and user management
-`React 18` `Vite` `Express` `MongoDB`
-🔗 [Live Demo](https://coffee-store-app-77cb4.web.app/) · 💻 [Client](https://github.com/mehedipolash/coffee-management-client) · 💻 [Server](https://github.com/mehedipolash/coffee-management-server) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/coffee-management)
+**Building with daily**
+JavaScript · React · Node.js · Express · MongoDB · Tailwind CSS · Firebase · Vite · REST APIs · JWT
 
-**🏦 Banking Transaction API** — transactional banking API built in C#
-`C#` `.NET`
-💻 [Source](https://github.com/mehedipolash/Banking-Transaction-Api)
+**Working into**
+TypeScript · Next.js · NestJS · PostgreSQL · System design · Software architecture
 
-**🩺 Medical Appointment System** — appointment scheduling with routing, localStorage persistence and chart-based booking analytics
-`React` `React Router` `Charts`
-🔗 [Live Demo](https://medical-appointment-system-using-reac.netlify.app/) · 💻 [Source](https://github.com/mehedipolash/Medical-Appointment-System) · 📖 [Case Study](https://mehedipolash.vercel.app/projects/medical-appointment)
+**Also written**
+Python · Java · C++ · C# · PHP · MySQL
 
-**📬 Mailbox App** — TypeScript mail client interface
-`TypeScript`
-💻 [Source](https://github.com/mehedipolash/mailbox-app)
+**Tooling**
+Git · GitHub · Postman · Vercel · Figma · Jira
 
-🌐 **All projects & case studies → [mehedipolash.vercel.app/projects](https://mehedipolash.vercel.app/projects)**
+**Networking** — VLSM subnetting, IP addressing, routing & switching, OSI model, TCP/IP,
+Cisco Packet Tracer
 
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehedipolash&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" alt="GitHub stats"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedipolash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=mehedipolash&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedipolash&theme=tokyonight" alt="Profile summary"/>
-</p>
+Detail → [mehedipolash.vercel.app/skills](https://mehedipolash.vercel.app/skills)
 
 ---
 
-## 📫 Let's Connect
+## Education & Credentials
 
-| | |
-|:--|:--|
-| 📧 **Email** | [polashmehedi33@gmail.com](mailto:polashmehedi33@gmail.com) |
-| 🌐 **Portfolio** | [mehedipolash.vercel.app](https://mehedipolash.vercel.app) |
-| 💼 **LinkedIn** | [in/m-mehedi-hasan-polash](https://www.linkedin.com/in/m-mehedi-hasan-polash) |
-| 📄 **Resume** | [mehedi_cv.pdf](https://mehedipolash.vercel.app/mehedi_cv.pdf) |
-| 💬 **Contact Form** | [mehedipolash.vercel.app/contact](https://mehedipolash.vercel.app/contact) |
+**B.Sc. Computer Science & Engineering** — American International University–Bangladesh (AIUB), 2025
+CGPA 3.73 / 4.00
 
-**More:** [About](https://mehedipolash.vercel.app/about) · [Experience](https://mehedipolash.vercel.app/experience) · [Skills](https://mehedipolash.vercel.app/skills) · [Credentials](https://mehedipolash.vercel.app/credentials) · [Blog](https://mehedipolash.vercel.app/blog)
+- IT Essentials — Cisco Networking Academy
+- Complete Web Development — Programming Hero
+- Cisco CCNA — in progress
+
+Verified badges → [mehedipolash.vercel.app/credentials](https://mehedipolash.vercel.app/credentials)
 
 ---
 
-<p align="center">
-⭐ If you find my work useful, a star on any repository is always appreciated.
-</p>
+## Contact
+
+Open to full-stack engineering roles.
+
+[Email](mailto:polashmehedi33@gmail.com) · [LinkedIn](https://www.linkedin.com/in/m-mehedi-hasan-polash) · [Portfolio](https://mehedipolash.vercel.app) · [Résumé](https://mehedipolash.vercel.app/mehedi_cv.pdf) · [Contact form](https://mehedipolash.vercel.app/contact) · [Writing](https://mehedipolash.vercel.app/blog) · [About](https://mehedipolash.vercel.app/about)
