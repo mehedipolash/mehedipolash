@@ -23,12 +23,12 @@ Full history → [mehedipolash.vercel.app/experience](https://mehedipolash.verce
 
 | Project | Description | Stack | Links |
 |:--|:--|:--|:--|
-| **EventHub** | Event management platform with session-cookie auth and RBAC (admin/user). Fully typed end‑to‑end. | Next.js 14, TypeScript, NestJS, PostgreSQL | [Frontend](https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Frontend) · [Backend](https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Backend) · [Case study](https://mehedipolash.vercel.app/projects/eventhub) |
-| **CareerCode** | Job portal with dual user roles on a single API, JWT‑secured routes, and an application state machine. | React 19, Vite, Express, MongoDB, Firebase Auth | [Live](https://career-code-7eae1.web.app/) · [Server](https://github.com/mehedipolash/career-code-server) · [Case study](https://mehedipolash.vercel.app/projects/careercode) |
-| **Stayora** | Hotel booking platform with date‑range reservations, server‑side price filtering, and reviews limited to confirmed stays. | React, Node.js, Express, MongoDB, JWT | [Live](https://stayora-93393.web.app/) · [Client](https://github.com/mehedipolash/Stayora-client) · [Case study](https://mehedipolash.vercel.app/projects/stayora) |
-| **PassionLoop** | Community platform for local interest groups — full CRUD with server‑side search, filtering, and pagination. | React, Node.js, Express, MongoDB Atlas | [Live](https://passionloop-b71a5.web.app/) · [Client](https://github.com/mehedipolash/PASSIONLOOP-CLIENT) · [Server](https://github.com/mehedipolash/PASSIONLOOP-SERVER) · [Case study](https://mehedipolash.vercel.app/projects/passionloop) |
+| **CareerCode** | Job portal with dual user roles on a single API, JWT-secured routes, and an application state machine. | React 19, Vite, Express, MongoDB, Firebase Auth | [Live](https://career-code-7eae1.web.app/) · [Server](https://github.com/mehedipolash/career-code-server) · [Case study](https://mehedipolash.vercel.app/projects/careercode) |
+| **Stayora** | Hotel booking platform with date-range reservations, server-side price filtering, and reviews limited to confirmed stays. | React, Node.js, Express, MongoDB, JWT | [Live](https://stayora-93393.web.app/) · [Client](https://github.com/mehedipolash/Stayora-client) · [Case study](https://mehedipolash.vercel.app/projects/stayora) |
+| **PassionLoop** | Community platform for local interest groups — full CRUD with server-side search, filtering, and pagination. | React, Node.js, Express, MongoDB Atlas | [Live](https://passionloop-b71a5.web.app/) · [Client](https://github.com/mehedipolash/PASSIONLOOP-CLIENT) · [Server](https://github.com/mehedipolash/PASSIONLOOP-SERVER) · [Case study](https://mehedipolash.vercel.app/projects/passionloop) |
+| **EventHub** | Event management platform with session-cookie auth and RBAC (admin/user). Fully typed end-to-end. | Next.js 14, TypeScript, NestJS, PostgreSQL | [Frontend](https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Frontend) · [Backend](https://github.com/mehedipolash/Advanced-web-technology-Event-Hub-Management-Backend) · [Case study](https://mehedipolash.vercel.app/projects/eventhub) |
 | **CareerFusion** | Job and company directory with Google OAuth, password reset, route guards, and profile management. | React 19, Firebase, React Router, Tailwind | [Live](https://careerfusion-44fab.web.app/) · [Source](https://github.com/mehedipolash/CAREERFUSION) · [Case study](https://mehedipolash.vercel.app/projects/careerfusion) |
-| **Coffee Management System** | Full‑stack CRUD application for coffee inventory with Firebase authentication and user management. | React 18, Vite, Express, MongoDB | [Live](https://coffee-store-app-77cb4.web.app/) · [Client](https://github.com/mehedipolash/coffee-management-client) · [Server](https://github.com/mehedipolash/coffee-management-server) · [Case study](https://mehedipolash.vercel.app/projects/coffee-management) |
+| **Coffee Management System** | Full-stack CRUD application for coffee inventory with Firebase authentication and user management. | React 18, Vite, Express, MongoDB | [Live](https://coffee-store-app-77cb4.web.app/) · [Client](https://github.com/mehedipolash/coffee-management-client) · [Server](https://github.com/mehedipolash/coffee-management-server) · [Case study](https://mehedipolash.vercel.app/projects/coffee-management) |
 | **Medical Appointment System** | Appointment scheduler with local storage and a booking analytics dashboard. | React, React Router, Charts | [Live](https://medical-appointment-system-using-reac.netlify.app/) · [Source](https://github.com/mehedipolash/Medical-Appointment-System) · [Case study](https://mehedipolash.vercel.app/projects/medical-appointment) |
 | **Banking Transaction API** | RESTful banking transaction service. | C#, .NET | [Source](https://github.com/mehedipolash/Banking-Transaction-Api) |
 | **Mailbox App** | Mail client interface built with TypeScript. | TypeScript | [Source](https://github.com/mehedipolash/mailbox-app) |
@@ -57,8 +57,8 @@ Full breakdown → [mehedipolash.vercel.app/skills](https://mehedipolash.vercel.
 **B.Sc. in Computer Science & Engineering** — American International University–Bangladesh (AIUB), 2025  
 CGPA: 3.73 / 4.00
 
-- IT Essentials — Cisco Networking Academy  
-- Complete Web Development — Programming Hero  
+- IT Essentials — Cisco Networking Academy
+- Complete Web Development — Programming Hero
 - Cisco CCNA — in progress
 
 Verified badges → [mehedipolash.vercel.app/credentials](https://mehedipolash.vercel.app/credentials)
@@ -67,6 +67,6 @@ Verified badges → [mehedipolash.vercel.app/credentials](https://mehedipolash.v
 
 ## Contact
 
-Open to full‑stack engineering roles — remote or on‑site, worldwide.
+Open to full-stack engineering roles — remote or on-site, worldwide.
 
 [Email](mailto:polashmehedi33@gmail.com) · [LinkedIn](https://www.linkedin.com/in/m-mehedi-hasan-polash) · [Portfolio](https://mehedipolash.vercel.app) · [Résumé](https://drive.google.com/file/d/1W2T9rvjfA3oJflXF00La595KGrG7jy-F/view?usp=sharing) · [Contact form](https://mehedipolash.vercel.app/contact) · [Blog](https://mehedipolash.vercel.app/blog)
