@@ -12,7 +12,7 @@ I build full-stack web applications from the database to the UI — REST APIs, a
 
 ## Experience
 
-**Full-Stack Developer (MERN)** — Nexogs Systems Ltd., Dhaka · *Present*  
+**Software Developer** — Nexogs Systems Ltd., Dhaka · *Present*  
 End-to-end delivery of production web applications: data modeling, REST API design, role-based access control, admin tooling, and responsive frontends.
 
 Full history → [mehedipolash.vercel.app/experience](https://mehedipolash.vercel.app/experience)
